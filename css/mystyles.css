@@ -1,0 +1,28 @@
+.btn-primary{
+    background-color: seagreen;
+    border-color: seagreen;
+}
+.btn-primary:hover{
+    background-color: darkseagreen;
+    border-color: darkseagreen;
+}
+.bg-primary{
+    background-color: seagreen !important;
+}
+.bg-primary:hover{
+    background-color: darkseagreen !important;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: dimgray;
+}
+.poop{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.poop2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.bg-light {
+    background-color: gainsboro !important;
+}

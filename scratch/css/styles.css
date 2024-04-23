@@ -1,0 +1,40 @@
+body{
+    background-color: dimgray;
+    font-family: 'Courier New', Courier, monospace;
+    color: ghostwhite;
+}
+.common{
+    position: absolute;
+    background-color:rgb(33, 37, 41);
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+.nav{
+    position: fixed;
+    bottom: 0px;
+    float: right;
+    z-index: 1;
+    font-size: larger;
+}
+a{
+    color: ghostwhite;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+}
+img{
+    border: 5px solid ghostwhite;
+}
+.vid{
+    margin-top: -400px;
+    margin-left: 700px;
+}
